@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**lileixuan/lileixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/lileixuan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lileixuan&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lileixuan&theme=buefy&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Coding status last week 
+
+<!--START_SECTION:waka-->
+
+```text
+Python                         ████████████████████████▒   97.55 %
+Go                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Shell Script                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CSS                            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Text                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+```
+
+<!--END_SECTION:waka-->
+
+### Connect with Me 
+
+<p align="center">
+<a href="https://www.koomu.cn/"><img alt="Website" src="https://img.shields.io/badge/Website-www.koomu.cn-blue?style=flat-square&logo=google-chrome"></a>
+<a href="mailto:lileixuan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lileixuan@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.koomu.cn/rss/"><img alt="Email" src="https://img.shields.io/badge/RSS-www.koomu.cn%2Frss%2F-blue?style=flat-square&logo=rss"></a>
+
+
+</p>
