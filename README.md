@@ -11,7 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python                         █████████████████████████   99.47 %
+Shell Script                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
