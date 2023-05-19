@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                             ███████████████████▒░░░░░   77.86 %
-reStructuredText                   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-Text                               █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Shell Script                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-textmate                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
