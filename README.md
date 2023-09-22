@@ -11,10 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                         ███████████████████████▒░   93.22 %
-YAML                           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Shell Script                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Bash                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
