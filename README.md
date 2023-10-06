@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text                             ████████▓░░░░░░░░░░░░░░░░   34.21 %
-JavaScript                       ████████▒░░░░░░░░░░░░░░░░   33.71 %
-GitIgnore file                   ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-Python                           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-Bash                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
