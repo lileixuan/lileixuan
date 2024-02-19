@@ -11,7 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Gettext Catalog                   ███████████▓░░░░░░░░░░░░░   47.08 %
+Python                            █████████▓░░░░░░░░░░░░░░░   38.73 %
+YAML                              ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Locale                            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:waka-->
