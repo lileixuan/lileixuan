@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                         ███████████████████▒░░░░░   77.74 %
-JavaScript                       ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Shell Script                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-YAML                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-EditorConfig                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
