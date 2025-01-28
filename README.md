@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dockerfile                   ████████████████████████▓   99.28 %
-Python                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
