@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                             ███████████████████████░░   91.50 %
-reStructuredText                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-YAML                               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JSON                               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-textmate                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
