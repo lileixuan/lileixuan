@@ -11,10 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     ██████████████████████▓░░   90.66 %
-YAML                       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-textmate                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Markdown                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
