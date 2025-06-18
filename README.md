@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML                      ██████████████████▒░░░░░░   73.13 %
-Python                   ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
