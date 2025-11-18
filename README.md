@@ -11,7 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python                     ██████████████▒░░░░░░░░░░   56.82 %
+Markdown                   ██████████▓░░░░░░░░░░░░░░   43.18 %
 ```
 
 <!--END_SECTION:waka-->
