@@ -11,7 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown                         █████████████████░░░░░░░░   68.44 %
+Bash                             ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Docker                           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
