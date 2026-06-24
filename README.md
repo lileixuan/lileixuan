@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                         █████████████████████░░░░   84.45 %
-JSON                             ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
